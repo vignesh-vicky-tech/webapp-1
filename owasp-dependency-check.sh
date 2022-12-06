@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 OWASPDC_DIRECTORY=$HOME/OWASP-Dependency-Check
 DATA_DIRECTORY="$OWASPDC_DIRECTORY/data"
